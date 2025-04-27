@@ -11,7 +11,7 @@ The whole process is done using the following files:
 7.	N6_Optimization_CNN: In this file, the best dataset and 1d-CNN model are optimized to produce the result with higher accuracy and lower space and time requirements.
 8.	N6_Optimization_DNDT: In this file, the best dataset and DNDT model are optimized to produce the result with higher accuracy and lower space and time requirements.
 
-The daataset are as follow:
+The dataset are as follow:
 
 Dataset O: Original dataset after the removal of outliers. It has 3406 features and 1 output. It has 179 datapoints.  <br>
 Dataset P1: Preprocessed dataset with Baseline correction.  <br>
