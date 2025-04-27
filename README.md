@@ -21,9 +21,9 @@ Dataset P4: Preprocessed dataset with Multiplicative Scatter Correction (MSC).  
 Dataset P5: Preprocessed dataset with Extended Multiplicative Scatter Correction (EMSC).  <br>
 Dataset P6: Preprocessed dataset with Standard Normal Variate (SNV). <br>
 Dataset P7: Scaled dataset with Standardization.  <br>
-Dataset P8: Scaled dataset with Min-max Normalization.
-Dataset OFS: Dataset generated from selected features from original dataset.
-Dataset PFS: Dataset generated from selected features from preprocessed dataset with SG smoothing (as it is the best dataset).
-Dataset OFE: Dataset generated from extracted features from original dataset.
+Dataset P8: Scaled dataset with Min-max Normalization. <br>
+Dataset OFS: Dataset generated from selected features from original dataset. <br>
+Dataset PFS: Dataset generated from selected features from preprocessed dataset with SG smoothing (as it is the best dataset). <br>
+Dataset OFE: Dataset generated from extracted features from original dataset. <br>
 Dataset PFE: Dataset generated from extracted features from preprocessed dataset with SG smoothing (as it is the best dataset).
 
